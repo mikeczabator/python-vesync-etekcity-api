@@ -12,7 +12,7 @@ devices = api.get_devices()
 
 api.turn_on(device_id)
 
-api.get_details(device_id)\
+api.get_details(device_id)
 api.get_energy(device_id) # building out different time windows soon
 
 api.turn_off(device_id)
