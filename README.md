@@ -1,5 +1,5 @@
 # python-vesync-etekcity-api
-API to VeSync Etekcity smart plugs.  piggybacking on projects.  
+API to VeSync Etekcity smart plugs. built in functionality for extracting energy and voltage information not available in other apis.  piggybacking on other projects.  
 
 more to come
 
