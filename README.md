@@ -1,5 +1,7 @@
 # python-vesync-etekcity-api
-API to VeSync Etekcity smart plugs
+API to VeSync Etekcity smart plugs.  piggybacking on another projects.  
+
+more to come
 
 ## basic usage
 ```python
